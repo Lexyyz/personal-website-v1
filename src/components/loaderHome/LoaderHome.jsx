@@ -29,7 +29,7 @@ const LoaderHome = () => {
           }}
           className="loaderText"
         >
-          Halo
+          Hello
         </motion.span>
         <motion.span
           initial={{ opacity: 0 }}
@@ -42,7 +42,7 @@ const LoaderHome = () => {
           }}
           className="loaderText"
         >
-          Hello
+          привет
         </motion.span>
         <motion.span
           initial={{ opacity: 0 }}
@@ -78,7 +78,8 @@ const LoaderHome = () => {
           }}
           className="loaderText"
         >
-          привет
+          
+        こんにちは
         </motion.span>
       </div>
     </motion.section>
