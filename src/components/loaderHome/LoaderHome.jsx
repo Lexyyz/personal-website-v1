@@ -68,7 +68,7 @@ const LoaderHome = () => {
           }}
           className="loaderText"
         >
-          Bonjour
+          안녕하세요
         </motion.span>
         <motion.span
           initial={{ opacity: 0 }}
