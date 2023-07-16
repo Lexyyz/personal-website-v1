@@ -7,9 +7,9 @@ const Work = () => {
     <section id="work">
       <div className="workDesign">
         <div className="workTypo">
-          <span>work</span>
-          <span>work</span>
-          <span>work</span>
+          <i>work</i>
+          <i>work</i>
+          <i>work</i>
         </div>
         <span className="workOpening">Featured Projects</span>
       </div>
