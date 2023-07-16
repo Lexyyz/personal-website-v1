@@ -20,7 +20,7 @@ const Work = () => {
             <span className="workNumber"> </span>
             <div className="workTitle">
               <span></span>
-              <span>Tagline produk</span>
+              <span><i>Tagline produk</i></span>
             </div>
           </div>
         </div>
