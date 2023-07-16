@@ -5,13 +5,13 @@ const About = () => {
   return (
     <section className="about" id="about">
       <div className="aboutTypo">
-        <span className="aboutTypoText">about me</span>
-        <span className="aboutTypoText">about me</span>
-        <span className="aboutTypoText">about me</span>
+        <i className="aboutTypoText">about me</i>
+        <i className="aboutTypoText">about me</i>
+        <i className="aboutTypoText">about me</i>
       </div>
       <div className="aboutContent">
         <h1 className="aboutInfo">
-          Hai, Im is Aldi. website ini di bangun menggunakan React JS & di hosting di vercel 
+          Hai, Im is Aldi website ini di bangun menggunakan React JS & di hosting di vercel 
         </h1>
         <a className="aboutButton" href="#">
           Read More About Me <i class="uil uil-arrow-up-right"></i>
