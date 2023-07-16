@@ -29,17 +29,17 @@ const Service = () => {
       </div>
       <div className="serviceStack">
         <div className="serviceTechStack">
-          <span>contoh</span>
-          <span>contoh</span>
-          <span>contoh</span>
-          <span>contoh</span>
-          <span>contoh</span>
+          <span>MongoDB</span>
+          <span>MySQL</span>
+          <span>Express JS</span>
+          <span>React JS</span>
+          <span>Node JS</span>
         </div>
         <div className="serviceTechStack">
-          <span>contoh</span>
-          <span>contoh</span>
-          <span>contoh</span>
-          <span>contoh</span>
+          <span>HTML</span>
+          <span>CSS</span>
+          <span>JavaScript</span>
+          <span>PHP</span>
         </div>
       </div>
     </section>
