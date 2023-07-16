@@ -11,7 +11,7 @@ const Work = () => {
           <i>work</i>
           <i>work</i>
         </div>
-        <span className="workOpening">Featured Projects</span>
+        <span className="workOpening"><i></i>Featured Projects</i></span>
       </div>
       <div className="workContainerMain">
         <div className="workMain">
