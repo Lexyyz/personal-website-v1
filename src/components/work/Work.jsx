@@ -19,8 +19,8 @@ const Work = () => {
           <div className="workText">
             <span className="workNumber">01.</span>
             <div className="workTitle">
-              <span>produk</span>
-              <span>Tagline produk 1</span>
+              <span></span>
+              <span>Tagline produk</span>
             </div>
           </div>
         </div>
