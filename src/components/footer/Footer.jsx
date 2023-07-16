@@ -11,15 +11,16 @@ const Footer = () => {
         <span>Come Join Us!</span>
       </div>
       <div className="footerLink">
-        <a href="#">Email Me</a>
-        <a href="#">WhatsApp Me</a>
-        <Link to="/more-info">More Contact</Link>
+        <a target="_blank" href="aldihayato8@gmail.com">Email Me</a>
+        <a target="_blank" href="http://wa.me/6285759940338">WhatsApp Me</a>
+        <a target="_blank" href="https://profile-v2-dun.vercel.app/">More Contact</a>
+        <Link to="/more-info"></Link>
       </div>
       <div className="footerSosmed">
-        <a href="#">Instagram</a>
-        <a href="#">YouTube</a>
-        <a href="#">LinkedIn</a>
-        <a href="#">Facebook</a>
+        <a target="_blank" href="https://instagram.com/aldialpiansyah.44">Instagram</a>
+        <a target="_blank" href="https://www.tiktok.com/@_lexyy04/">Tik Tok</a>
+        <a target="_blank" href="https://sck.io/u/@Aldsyh/hjbyxE-z">Snack Video</a>
+        <a target="_blank" href="https://github.com/Lexyyz/">GitHub</a>
       </div>
     </section>
   );
