@@ -17,7 +17,7 @@ const Work = () => {
         <div className="workMain">
           <img className="workImage" src={Picture} alt="" />
           <div className="workText">
-            <span className="workNumber">01.</span>
+            <span className="workNumber"> </span>
             <div className="workTitle">
               <span></span>
               <span>Tagline produk</span>
