@@ -13,8 +13,7 @@ const Footer = () => {
       <div className="footerLink">
         <a target="_blank" href="aldihayato8@gmail.com">Email Me</a>
         <a target="_blank" href="http://wa.me/6285759940338">WhatsApp Me</a>
-        <a target="_blank" href="https://profile-v2-dun.vercel.app/">More Contact</a>
-        <Link to="/more-info"></Link>
+        <a target="_blank" href="https://profile-v2-dun.vercel.app/">More Contact</a>        
       </div>
       <div className="footerSosmed">
         <a target="_blank" href="https://instagram.com/aldialpiansyah.44">Instagram</a>
