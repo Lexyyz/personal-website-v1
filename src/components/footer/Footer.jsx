@@ -16,7 +16,7 @@ const Footer = () => {
         <a target="_blank" href="https://profile-v2-dun.vercel.app/">More Contact</a>        
       </div>
       <div className="footerSosmed">
-        <a target="_blank" href="https://instagram.com/aldialpiansyah.44">Instagram</a>
+        <a target="_blank" href="https://instagram.com/kvsaldy_">Instagram</a>
         <a target="_blank" href="https://www.tiktok.com/@_lexyy04/">Tik Tok</a>
         <a target="_blank" href="https://sck.io/u/@Aldsyh/hjbyxE-z">Snack Video</a>
         <a target="_blank" href="https://github.com/Lexyyz/">GitHub</a>
