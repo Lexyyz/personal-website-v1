@@ -20,14 +20,14 @@ const Work = () => {
             <span className="workNumber"> </span>
             <div className="workTitle">
               <span></span>
-              <span><i>🛒Tagline produk </i></span>
+              <span><i>🛒 Tagline produk </i></span>
             </div>
           </div>
         </div>
         <div className="workLink">
           <a className="workLinked" href="#">
             <i class="uil uil-arrow-up-left"></i>
-            <span>Online Preview</span>
+            <span>Online Preview 🛒</span>
           </a>
         </div>
       </div>
