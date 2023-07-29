@@ -69,7 +69,7 @@
 }
 
 .workLink {
-  height: 50vh;
+  height: 100vh;
   display: flex;
   align-items: end;
   font-size: 0.8rem;
