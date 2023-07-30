@@ -7,20 +7,20 @@ const Work = () => {
     <section id="work">
       <div className="workDesign">
         <div className="workTypo">
-          <span>work</span>
-          <span>work</span>
-          <span>work</span>
+          <span><i>work</i></span>
+          <span><i>work</i></span>
+          <span><i>work</i></span>
         </div>
-        <span className="workOpening">Featured Projects</span>
+        <span className="workOpening"><i>Featured Projects</i></span>
       </div>
       <div className="workContainerMain">
         <div className="workMain">
           <img className="workImage" src={Picture} alt="" />
           <div className="workText">
-            <span className="workNumber">01.</span>
+            <span className="workNumber">01</span>
             <div className="workTitle">
-              <span>Contoh Produk 1</span>
-              <span>Tagline produk 1</span>
+              <span></span>
+              <span><i>Tagline produk 1</i></span>
             </div>
           </div>
         </div>
