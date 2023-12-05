@@ -6,8 +6,8 @@ const Navbar = () => {
   return (
     <nav>
       <div className="navName">
-        <span>Hi, my name is</span>
-        <span>Aldi alpiansyah</span>
+        <span>Hi, welcome to my website</span>
+        <span> </span>
       </div>
       <div className="containerNav">
         <div className="navMenuRight">
