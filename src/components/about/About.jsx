@@ -11,7 +11,7 @@ const About = () => {
       </div>
       <div className="aboutContent">
         <h1 className="aboutInfo">
-          Hai, Im is Aldi.     Website Ini Di Bangun Menggunakan React JS & di Devloy di vercel 
+        Apabila kamu mampu memimpikannya, maka kamu juga bisa melakukannya.
         </h1>
         <a className="aboutButton" href="#">
           Read More About Me <i class="uil uil-arrow-up-right"></i>
